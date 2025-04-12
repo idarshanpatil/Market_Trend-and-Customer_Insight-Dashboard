@@ -1,13 +1,19 @@
-#📊 Market Trend & Customer InsightDashboard
+# Market Trend & Customer InsightDashboard
+
+
 This interactive Power BI dashboard provides a comprehensive analysis of customer transactions and purchasing behavior, offering valuable insights into market trends across different demographics, locations, and payment methods.
 
 
-#📂 Dataset
+📂 Dataset
+
+
 Filename: customer_transactions_dataset.csv
 
 Contents: Transaction details including purchase amount, customer age, gender, payment method, feedback scores, and geographical data.
 
-#🔍 Dashboard Features
+🔍 Dashboard Features
+
+
 ✅ Key Insights:
 💵 Total Purchase Amount by Payment Method: Understand the distribution of total purchase value across Credit Cards, PayPal, Cryptocurrency, Cash, and Debit Cards.
 
@@ -29,7 +35,9 @@ Total Purchase Amount
 
 Total Number of Transactions
 
-#🛠 Tools Used
+🛠 Tools Used
+
+
 Microsoft Power BI
 
 Data Source: CSV File (customer_transactions_dataset.csv)
@@ -45,7 +53,9 @@ Load the customer_transactions_dataset.csv dataset.
 
 Explore interactive visuals to gain business insights.
 
-#📌 Use Cases
+📌 Use Cases
+
+
 Marketing & sales strategy development
 
 Customer segmentation and targeting
@@ -54,7 +64,9 @@ Payment method optimization
 
 Regional performance evaluation
 
-#📫 Contact
+📫 Contact
+
+
 For any queries or collaborations, reach out to:
 
 Darshan Patil
