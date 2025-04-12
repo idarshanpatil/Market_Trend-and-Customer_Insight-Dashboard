@@ -35,7 +35,7 @@ Total Purchase Amount
 
 Total Number of Transactions
 
-🛠 Tools Used
+### Tools Used
 
 
 Microsoft Power BI
@@ -44,7 +44,7 @@ Data Source: CSV File (customer_transactions_dataset.csv)
 
 Data Visualization: Custom charts, maps, and KPIs
 
-#🚀 How to Use
+### How to Use
 Clone or download this repository.
 
 Open the .pbix Power BI file (if included) in Power BI Desktop.
@@ -53,7 +53,7 @@ Load the customer_transactions_dataset.csv dataset.
 
 Explore interactive visuals to gain business insights.
 
-📌 Use Cases
+### Use Cases
 
 
 Marketing & sales strategy development
@@ -64,13 +64,12 @@ Payment method optimization
 
 Regional performance evaluation
 
-📫 Contact
+### Contact
 
 
 For any queries or collaborations, reach out to:
 
 Darshan Patil
 📧 patildarshan272@gmail.com
-🔗 LinkedIn | GitHub | Portfolio
 
 
