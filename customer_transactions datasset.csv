@@ -1,0 +1,501 @@
+Transaction ID,Customer ID,Customer Name,Age,Gender,Location,Product ID,Product Name,Category,Quantity Purchased,Price per Unit ($),Total Purchase Amount ($),Purchase Date,Payment Method,Customer Feedback Score
+1,CUST1418,Colton Garcia,32,Male,Jenkinschester,PROD513,Sneakers,Fashion,2,304.96,609.92,2023-05-28,Cash,2
+2,CUST1796,Michele Rowe,22,Male,Robertmouth,PROD652,Comics,Books,4,452.13,1808.52,2024-01-19,Cryptocurrency,4
+3,CUST4419,Melissa Rogers,20,Non-binary,West Kimberly,PROD639,Football,Sports,2,17.45,34.9,2023-05-17,Cash,5
+4,CUST8052,Geoffrey Sweeney,65,Female,South Ashleyport,PROD286,Eggs,Grocery,4,137.73,550.92,2024-04-01,Debit Card,4
+5,CUST7807,Amber Washington,26,Female,South Natalieview,PROD949,Biography,Books,5,227.51,1137.55,2023-11-12,Credit Card,1
+6,CUST3601,Amanda Davis,60,Female,Masonshire,PROD721,Microwave,Home & Kitchen,5,141.65,708.25,2024-01-30,Cash,1
+7,CUST6704,Rachel Jackson,21,Non-binary,Port Kevin,PROD900,Vegetables,Grocery,3,357.36,1072.08,2024-01-04,Cryptocurrency,3
+8,CUST3398,Randy Watkins,39,Female,South Jeffreychester,PROD398,Dishwasher,Home & Kitchen,1,215.76,215.76,2024-11-08,Credit Card,4
+9,CUST8637,Mary Martinez,18,Non-binary,Wadeburgh,PROD667,Fiction,Books,4,263.45,1053.8,2024-03-11,PayPal,1
+10,CUST3908,Rhonda Montgomery,61,Non-binary,Lake Jenniferstad,PROD493,T-shirt,Fashion,5,139.27,696.35,2023-07-01,Cash,3
+11,CUST5807,David Wood,49,Female,Lake Deborah,PROD297,Laptop,Electronics,4,138.8,555.2,2023-04-29,Credit Card,2
+12,CUST1783,David Wilcox,63,Non-binary,Transide,PROD127,Sneakers,Fashion,1,113.24,113.24,2023-03-14,Cryptocurrency,2
+13,CUST7832,Ryan Griffin,44,Male,South Robertview,PROD168,Vacuum Cleaner,Home & Kitchen,1,185.99,185.99,2024-11-11,Debit Card,3
+14,CUST8442,Brittany Henry,18,Male,Port Douglasport,PROD582,Eggs,Grocery,5,86.47,432.35,2024-12-10,PayPal,5
+15,CUST5114,Denise Martin,64,Non-binary,Lake Melissafurt,PROD850,Jeans,Fashion,2,278.47,556.94,2023-04-27,PayPal,2
+16,CUST9365,Paula Hensley,51,Female,Vaughnborough,PROD184,Science,Books,3,93.01,279.03,2024-07-26,Cash,5
+17,CUST5075,Gregory Briggs,30,Male,East Krista,PROD186,Running Shoes,Sports,1,281.0,281.0,2024-12-05,Cryptocurrency,5
+18,CUST5021,Adam Allison,62,Non-binary,Philliphaven,PROD439,Headphones,Electronics,2,278.27,556.54,2023-10-06,Cryptocurrency,5
+19,CUST9485,Gina Mendez,41,Female,Robertsville,PROD806,Microwave,Home & Kitchen,4,128.92,515.68,2023-10-28,Debit Card,5
+20,CUST4365,Justin Weaver,19,Female,East Makayla,PROD815,Dumbbells,Sports,2,256.19,512.38,2024-05-31,Cryptocurrency,2
+21,CUST8110,Jacob Simon,54,Female,Prestonland,PROD791,Tablet,Electronics,2,297.6,595.2,2024-03-09,PayPal,2
+22,CUST6445,Jessica Rangel,53,Male,South Timothy,PROD482,Tennis Racket,Sports,2,65.89,131.78,2024-08-10,Credit Card,3
+23,CUST1204,Veronica Lopez,43,Female,Feliciafort,PROD325,Vacuum Cleaner,Home & Kitchen,5,255.68,1278.4,2023-06-09,Credit Card,1
+24,CUST5294,Dustin Gonzalez,54,Non-binary,Williamsonmouth,PROD438,Laptop,Electronics,3,342.12,1026.36,2024-03-17,Cash,2
+25,CUST5945,George Gilmore,46,Non-binary,Lake Thomasmouth,PROD786,Sneakers,Fashion,2,415.52,831.04,2023-11-23,Cryptocurrency,1
+26,CUST1320,Michele Woodward,56,Male,Port Kimberlymouth,PROD606,Yoga Mat,Sports,1,333.71,333.71,2023-08-01,Debit Card,1
+27,CUST8499,Jessica Gonzalez,43,Female,Garyhaven,PROD778,Couch,Home & Kitchen,4,345.76,1383.04,2024-08-30,Cash,3
+28,CUST3480,Jeffery Conrad,60,Non-binary,Davistown,PROD226,Milk,Grocery,4,393.77,1575.08,2023-08-14,PayPal,1
+29,CUST3565,Michael Jenkins,27,Non-binary,Grantton,PROD105,Dishwasher,Home & Kitchen,4,114.63,458.52,2023-06-05,Cryptocurrency,3
+30,CUST1915,Mary Clark,25,Non-binary,Dennisberg,PROD714,Sneakers,Fashion,2,8.19,16.38,2023-05-18,PayPal,5
+31,CUST8140,Michelle Schneider,39,Male,Tylerstad,PROD435,Jacket,Fashion,4,84.05,336.2,2024-12-23,Debit Card,4
+32,CUST1093,Donald Collins,18,Female,Port Melissamouth,PROD827,Sneakers,Fashion,3,476.25,1428.75,2023-08-18,PayPal,3
+33,CUST8242,Yolanda Miller,41,Male,West Michellechester,PROD514,Football,Sports,1,122.24,122.24,2025-02-04,Credit Card,1
+34,CUST5465,Michelle Schroeder,27,Non-binary,North Matthew,PROD966,Yoga Mat,Sports,2,297.03,594.06,2023-11-14,PayPal,2
+35,CUST8346,Mrs. Jacqueline Wright DVM,23,Female,Susanville,PROD382,T-shirt,Fashion,4,445.34,1781.36,2024-10-11,Debit Card,3
+36,CUST4232,Jasmine Bradley,53,Non-binary,Amyfurt,PROD414,T-shirt,Fashion,4,114.02,456.08,2023-09-12,Cash,4
+37,CUST9222,Tanya Dorsey,28,Non-binary,Gonzalezfurt,PROD155,T-shirt,Fashion,1,254.08,254.08,2023-09-16,Cash,5
+38,CUST3123,Keith King,28,Female,North Briannaport,PROD397,Vacuum Cleaner,Home & Kitchen,4,81.92,327.68,2023-07-12,Cryptocurrency,3
+39,CUST9078,Wesley Edwards,29,Female,Port Tammyhaven,PROD319,Vacuum Cleaner,Home & Kitchen,2,486.74,973.48,2023-10-08,Debit Card,3
+40,CUST5664,John Taylor,48,Non-binary,West Alan,PROD921,Fruits,Grocery,3,231.68,695.04,2024-07-31,Debit Card,2
+41,CUST6756,Nichole Goodman,51,Non-binary,Evanston,PROD887,Jeans,Fashion,3,197.26,591.78,2024-12-05,Credit Card,4
+42,CUST9235,Melvin Jensen,34,Non-binary,Valdezview,PROD928,Non-fiction,Books,3,62.86,188.58,2024-08-24,Debit Card,3
+43,CUST1565,Jennifer Brooks,58,Male,South Olivia,PROD557,Jacket,Fashion,3,473.54,1420.62,2023-12-14,Cash,5
+44,CUST5468,Matthew Peters,52,Non-binary,Kylemouth,PROD202,Jeans,Fashion,4,340.38,1361.52,2023-10-31,Credit Card,4
+45,CUST3238,Nicolas Carter,46,Non-binary,East Juliaburgh,PROD243,Comics,Books,5,247.21,1236.05,2024-01-21,PayPal,2
+46,CUST5292,Lori Juarez,26,Male,South Luisport,PROD207,Tablet,Electronics,1,294.28,294.28,2024-08-23,Credit Card,3
+47,CUST4308,Christopher Key,48,Male,Mariaview,PROD444,Headphones,Electronics,4,419.12,1676.48,2023-05-11,Credit Card,3
+48,CUST3170,Lisa Scott,56,Male,Stevenburgh,PROD215,Eggs,Grocery,5,128.89,644.45,2024-07-12,Debit Card,3
+49,CUST1885,Sharon Jones,32,Male,West Charles,PROD995,Jeans,Fashion,4,438.67,1754.68,2024-03-06,PayPal,3
+50,CUST5713,Anna Clayton,50,Female,Port Carolyn,PROD582,Tennis Racket,Sports,4,75.07,300.28,2023-08-15,PayPal,4
+51,CUST6800,Robert Mcneil,25,Female,North Jill,PROD273,Microwave,Home & Kitchen,1,410.23,410.23,2024-07-31,Cash,3
+52,CUST9384,Crystal Flores,18,Male,Port Kathryn,PROD590,Tennis Racket,Sports,4,479.11,1916.44,2023-09-18,PayPal,3
+53,CUST9488,Andrew Robinson,20,Male,Harrellshire,PROD623,Couch,Home & Kitchen,1,88.06,88.06,2024-08-14,PayPal,5
+54,CUST2131,Jesse Houston,64,Non-binary,Port Jonathanborough,PROD609,Eggs,Grocery,1,53.39,53.39,2023-07-27,Cash,2
+55,CUST5456,Mary Harper,52,Male,Jimmyfurt,PROD394,Watch,Fashion,1,229.72,229.72,2024-11-08,Credit Card,2
+56,CUST2336,Rhonda Freeman,38,Non-binary,North Timothy,PROD700,Sneakers,Fashion,3,65.79,197.37,2025-03-07,Credit Card,4
+57,CUST4214,Roy Kaiser,23,Male,West John,PROD131,Watch,Fashion,4,419.87,1679.48,2024-05-18,Cryptocurrency,1
+58,CUST5288,Jessica Bell,38,Male,Deannashire,PROD505,Vacuum Cleaner,Home & Kitchen,4,185.83,743.32,2024-05-16,Cash,5
+59,CUST6011,Christina Hall,22,Non-binary,East Cynthia,PROD499,Blender,Home & Kitchen,5,340.96,1704.8,2024-07-16,PayPal,5
+60,CUST5785,Karen Blake,45,Non-binary,Stevenborough,PROD112,Smartphone,Electronics,1,89.86,89.86,2024-06-13,Cash,4
+61,CUST3048,Robert Russell,51,Non-binary,Lake Danielleside,PROD482,Blender,Home & Kitchen,4,341.89,1367.56,2025-01-27,Cryptocurrency,5
+62,CUST7140,Kevin Brooks,43,Female,Randallland,PROD871,Bread,Grocery,2,125.58,251.16,2024-02-22,Cash,5
+63,CUST9608,Matthew Oconnell,34,Female,Michaelview,PROD164,Blender,Home & Kitchen,3,435.0,1305.0,2024-08-17,Cryptocurrency,3
+64,CUST2589,Peggy Morgan,35,Female,East Tyler,PROD684,Fruits,Grocery,2,171.55,343.1,2024-07-19,Cryptocurrency,2
+65,CUST8056,Tara Salinas,25,Non-binary,East Melissa,PROD785,Couch,Home & Kitchen,1,480.72,480.72,2023-10-24,Debit Card,2
+66,CUST5073,Robert Bennett,37,Male,South Raymondburgh,PROD537,Smartwatch,Electronics,4,284.95,1139.8,2024-09-16,Cryptocurrency,4
+67,CUST9231,Jessica Arroyo,28,Male,Michellemouth,PROD465,Running Shoes,Sports,4,118.93,475.72,2023-05-21,PayPal,4
+68,CUST4611,Daniel Herrera,43,Male,East Linda,PROD282,Yoga Mat,Sports,5,325.32,1626.6,2023-03-26,Credit Card,1
+69,CUST9160,Charles Bass,55,Non-binary,Port Amyhaven,PROD990,Bread,Grocery,3,23.64,70.92,2023-12-12,PayPal,4
+70,CUST6383,Madison Smith,40,Male,Smithshire,PROD926,Watch,Fashion,5,456.87,2284.35,2023-08-03,PayPal,4
+71,CUST1761,Jacob Carter,63,Female,South Brooke,PROD700,Dumbbells,Sports,3,485.55,1456.65,2024-07-04,Cryptocurrency,2
+72,CUST6792,Samantha Taylor,21,Non-binary,Johnsonland,PROD416,Non-fiction,Books,5,484.53,2422.65,2024-01-01,Cryptocurrency,1
+73,CUST7861,Felicia Meyer,24,Male,South Kristyville,PROD924,Blender,Home & Kitchen,5,169.59,847.95,2023-07-29,Cryptocurrency,3
+74,CUST8911,Michelle Taylor,22,Male,East Phyllisfurt,PROD200,Dumbbells,Sports,4,103.66,414.64,2023-08-10,Cryptocurrency,4
+75,CUST4225,Kayla Smith,26,Female,Bradland,PROD977,Tablet,Electronics,4,183.9,735.6,2024-03-04,Cash,2
+76,CUST8759,James George,65,Female,East Randall,PROD266,Watch,Fashion,5,480.85,2404.25,2024-08-22,PayPal,2
+77,CUST1028,William Trujillo,37,Female,New Laura,PROD144,Fruits,Grocery,1,109.19,109.19,2023-07-25,PayPal,3
+78,CUST3231,Marco Ballard,22,Non-binary,New Luke,PROD855,Jeans,Fashion,5,101.66,508.3,2024-08-20,PayPal,3
+79,CUST2143,John Olson,45,Non-binary,Padillamouth,PROD387,Tablet,Electronics,5,89.71,448.55,2024-05-27,Credit Card,5
+80,CUST2961,Michael Patrick,28,Female,Rachaelchester,PROD492,Tennis Racket,Sports,4,448.79,1795.16,2024-09-24,Debit Card,3
+81,CUST2412,Jason Williamson,55,Female,Zacharyview,PROD111,Blender,Home & Kitchen,3,123.47,370.41,2023-06-30,Cash,1
+82,CUST7475,Trevor Roman,46,Non-binary,Jimberg,PROD245,Smartwatch,Electronics,5,202.6,1013.0,2024-04-02,Cryptocurrency,4
+83,CUST9554,Gordon Farley,56,Non-binary,Jameshaven,PROD404,Couch,Home & Kitchen,3,307.37,922.11,2023-12-05,Credit Card,1
+84,CUST8708,Sharon Cole,29,Female,Clarkmouth,PROD436,Comics,Books,2,45.64,91.28,2023-11-04,PayPal,2
+85,CUST2516,Katrina Melton,65,Non-binary,Williamhaven,PROD669,Bread,Grocery,2,367.32,734.64,2024-06-03,Credit Card,5
+86,CUST2761,Mark Beasley,45,Male,North Ronald,PROD707,Science,Books,3,493.01,1479.03,2024-01-18,PayPal,4
+87,CUST6956,Brian Perez,64,Non-binary,Melindafurt,PROD874,Microwave,Home & Kitchen,1,194.78,194.78,2024-03-06,Credit Card,2
+88,CUST4750,Carolyn Meyers,18,Male,Colemanborough,PROD178,Football,Sports,5,254.46,1272.3,2024-08-19,Debit Card,5
+89,CUST1835,Matthew Bates,65,Male,Patrickburgh,PROD327,Biography,Books,5,60.97,304.85,2025-02-25,Cryptocurrency,4
+90,CUST9238,Lauren Smith,28,Non-binary,West Lindseyberg,PROD747,Non-fiction,Books,4,260.88,1043.52,2024-09-16,Cash,3
+91,CUST9535,Steven Carter,50,Female,North Arthurmouth,PROD368,Biography,Books,1,477.46,477.46,2024-10-13,Credit Card,3
+92,CUST5108,Alex Chapman,57,Non-binary,North Anna,PROD488,Blender,Home & Kitchen,2,431.12,862.24,2024-06-25,Cash,3
+93,CUST1214,Tyler Nunez,53,Non-binary,Chambersburgh,PROD878,Vacuum Cleaner,Home & Kitchen,2,353.04,706.08,2023-12-21,PayPal,1
+94,CUST6111,Cory Thornton,49,Female,Rodriguezfort,PROD544,Fruits,Grocery,3,111.79,335.37,2024-02-25,Cryptocurrency,2
+95,CUST9260,Shannon Li,21,Female,Hamiltonstad,PROD823,Couch,Home & Kitchen,3,262.7,788.1,2024-09-24,Cash,5
+96,CUST5389,Caroline Le,22,Male,Kellyside,PROD138,Dumbbells,Sports,4,250.14,1000.56,2023-09-08,Cryptocurrency,3
+97,CUST9464,Misty Gardner,30,Non-binary,East Caitlinborough,PROD562,Tablet,Electronics,2,232.61,465.22,2023-11-02,Debit Card,1
+98,CUST2990,Kayla Barker,59,Female,Christopherview,PROD672,Blender,Home & Kitchen,2,432.54,865.08,2024-09-03,Credit Card,5
+99,CUST2935,John Grant,30,Male,Williamsview,PROD512,Yoga Mat,Sports,1,49.71,49.71,2024-05-21,Credit Card,2
+100,CUST9626,David Hill,50,Female,Patrickton,PROD311,Milk,Grocery,2,442.6,885.2,2024-12-24,Debit Card,1
+101,CUST2381,Troy Rocha,63,Female,Pateltown,PROD640,Dumbbells,Sports,5,132.37,661.85,2024-03-25,Cash,2
+102,CUST2922,Logan Richards,20,Female,Ramireztown,PROD776,Eggs,Grocery,4,341.36,1365.44,2023-12-31,Cash,5
+103,CUST9867,Natalie Peterson,64,Male,New Bethany,PROD682,Vegetables,Grocery,2,78.76,157.52,2024-09-15,Credit Card,2
+104,CUST3133,Daniel Silva,21,Female,Kellyburgh,PROD617,Fiction,Books,3,281.34,844.02,2024-01-26,Cryptocurrency,1
+105,CUST2029,Patricia Carrillo,54,Non-binary,Thompsonland,PROD182,Vegetables,Grocery,2,326.8,653.6,2024-08-10,Credit Card,5
+106,CUST4061,Tina Hill DVM,33,Male,New Cynthiabury,PROD794,Tablet,Electronics,3,333.04,999.12,2024-12-15,Cryptocurrency,5
+107,CUST4907,Michelle Mitchell,56,Female,Russellville,PROD827,Science,Books,4,193.91,775.64,2023-04-21,Credit Card,2
+108,CUST5005,Nicholas Schmidt,29,Non-binary,South Derrickmouth,PROD636,Sneakers,Fashion,1,292.13,292.13,2024-06-09,Cash,5
+109,CUST7438,Douglas Smith,44,Female,South James,PROD129,Blender,Home & Kitchen,2,326.72,653.44,2023-07-26,PayPal,2
+110,CUST5785,Cory Prince,38,Non-binary,East Taylorbury,PROD636,Watch,Fashion,1,374.52,374.52,2024-05-06,Credit Card,1
+111,CUST2008,John Woods,39,Non-binary,South Timothyfurt,PROD426,Blender,Home & Kitchen,3,19.19,57.57,2024-07-03,Cryptocurrency,1
+112,CUST6970,Caitlyn Shaffer,64,Non-binary,Davistown,PROD117,Comics,Books,3,310.15,930.45,2024-05-23,Credit Card,5
+113,CUST1617,Tamara Hudson,35,Non-binary,Powellberg,PROD411,Comics,Books,1,52.04,52.04,2024-02-19,Cryptocurrency,4
+114,CUST1897,April Huff,59,Female,Ryanfurt,PROD977,Eggs,Grocery,2,243.8,487.6,2024-02-10,Credit Card,3
+115,CUST8136,Jeremy Reed,52,Male,Port William,PROD642,Sneakers,Fashion,1,263.47,263.47,2023-07-23,PayPal,2
+116,CUST9119,Scott Anderson,22,Male,Lake Ryanfort,PROD700,Laptop,Electronics,1,205.28,205.28,2023-06-05,Credit Card,3
+117,CUST2576,Zachary Beck,20,Non-binary,Johnsonburgh,PROD142,Science,Books,5,47.67,238.35,2024-10-16,Debit Card,2
+118,CUST1764,Cheryl Beasley,56,Non-binary,Lanceview,PROD506,Tennis Racket,Sports,5,381.47,1907.35,2024-03-03,Credit Card,4
+119,CUST5433,Robin Mayo,28,Male,West Kimberlyburgh,PROD806,Science,Books,3,359.94,1079.82,2023-05-02,Cash,2
+120,CUST8322,Richard Young,50,Non-binary,Lake Cameron,PROD409,T-shirt,Fashion,5,86.18,430.9,2023-10-12,Credit Card,3
+121,CUST7328,Keith Elliott,57,Non-binary,New Ashley,PROD604,Vacuum Cleaner,Home & Kitchen,1,478.46,478.46,2024-07-15,Cryptocurrency,2
+122,CUST5451,Lisa Peterson,30,Non-binary,Michaelborough,PROD661,Microwave,Home & Kitchen,3,124.01,372.03,2024-01-19,Debit Card,3
+123,CUST2653,Cynthia Thomas,50,Non-binary,East Kyle,PROD590,Fiction,Books,3,354.25,1062.75,2023-06-10,PayPal,2
+124,CUST7309,Gary Phillips,31,Male,Port Teresa,PROD399,Running Shoes,Sports,2,161.52,323.04,2024-08-06,Cryptocurrency,4
+125,CUST1369,Rachel Garcia,46,Female,Cameronshire,PROD566,Smartwatch,Electronics,4,473.41,1893.64,2024-09-12,Cash,2
+126,CUST2639,James Dunn,46,Male,New Wandaton,PROD163,Tennis Racket,Sports,3,154.4,463.2,2024-01-16,Credit Card,2
+127,CUST4407,Christine Giles,31,Non-binary,Lake Courtneyland,PROD165,Comics,Books,5,82.59,412.95,2024-03-21,Cryptocurrency,3
+128,CUST3103,Ruben Schroeder,39,Male,Fullermouth,PROD537,Tennis Racket,Sports,5,263.93,1319.65,2023-05-18,Cryptocurrency,1
+129,CUST8006,Marcus Brown,51,Female,East Mackenziefurt,PROD710,Blender,Home & Kitchen,2,308.96,617.92,2024-10-11,Credit Card,5
+130,CUST2661,Brittany Vargas,49,Non-binary,Port David,PROD625,Smartwatch,Electronics,3,228.36,685.08,2024-11-10,Cash,5
+131,CUST5324,Jessica Ware,65,Male,Lake Victorview,PROD270,Eggs,Grocery,5,172.2,861.0,2023-07-26,Credit Card,5
+132,CUST9640,Sara Hernandez,40,Male,Port Lisaview,PROD832,Vacuum Cleaner,Home & Kitchen,4,438.19,1752.76,2023-09-11,Cryptocurrency,4
+133,CUST5431,Lisa Williamson,19,Female,Michelleton,PROD960,Microwave,Home & Kitchen,4,422.3,1689.2,2023-04-11,Credit Card,2
+134,CUST2692,Travis Baker,35,Female,Carloshaven,PROD635,Eggs,Grocery,2,15.77,31.54,2024-11-18,Credit Card,5
+135,CUST9044,Lisa Cordova,38,Non-binary,Port Douglasfort,PROD921,Blender,Home & Kitchen,4,317.75,1271.0,2024-12-21,Cash,1
+136,CUST7440,Gregory Harris,61,Female,Ferrellview,PROD152,Blender,Home & Kitchen,2,115.45,230.9,2023-09-18,Cryptocurrency,3
+137,CUST5572,Danielle Thomas,53,Male,Laurenfurt,PROD940,Non-fiction,Books,1,416.12,416.12,2025-01-01,Credit Card,3
+138,CUST7707,Jessica Lopez,40,Non-binary,Turnerside,PROD528,Watch,Fashion,5,216.33,1081.65,2024-03-11,Cash,2
+139,CUST8560,Jody Reese,23,Female,West Veronica,PROD120,Non-fiction,Books,3,377.98,1133.94,2024-08-08,Credit Card,2
+140,CUST9040,Hunter Gregory,22,Non-binary,East Jill,PROD641,Fiction,Books,2,240.49,480.98,2025-02-15,Cryptocurrency,4
+141,CUST3745,Chelsey Adams,49,Non-binary,Jonesport,PROD768,Watch,Fashion,4,440.36,1761.44,2024-04-20,Credit Card,5
+142,CUST3180,James Silva,22,Non-binary,Kendrabury,PROD872,Science,Books,5,225.95,1129.75,2024-11-06,Debit Card,3
+143,CUST3022,Jessica Jordan,45,Female,West Carrie,PROD516,Fruits,Grocery,5,247.19,1235.95,2024-06-18,PayPal,3
+144,CUST5483,Harry Campbell,41,Female,Port Stephanie,PROD284,Watch,Fashion,3,308.55,925.65,2023-03-29,Cryptocurrency,5
+145,CUST7138,Andrea James,34,Male,North Justinview,PROD284,Watch,Fashion,5,245.17,1225.85,2023-05-06,Credit Card,2
+146,CUST6752,Matthew Williams,48,Non-binary,Port Meghan,PROD802,Vegetables,Grocery,1,384.22,384.22,2024-09-30,Credit Card,1
+147,CUST6457,Toni Beck,40,Non-binary,East Kristopherport,PROD288,Vacuum Cleaner,Home & Kitchen,2,170.76,341.52,2025-03-02,Credit Card,5
+148,CUST3115,Jennifer Jordan,42,Male,Kennethton,PROD796,Watch,Fashion,2,179.73,359.46,2024-07-31,Debit Card,3
+149,CUST7874,Angela Munoz,34,Non-binary,Davidhaven,PROD478,Tablet,Electronics,1,49.07,49.07,2023-12-31,Cash,4
+150,CUST2574,Christopher Wright,44,Non-binary,Smithberg,PROD586,Jeans,Fashion,5,384.16,1920.8,2024-09-24,Debit Card,4
+151,CUST6766,Dominique Drake,24,Female,East Rhondaburgh,PROD463,Sneakers,Fashion,5,225.31,1126.55,2023-04-17,Cryptocurrency,2
+152,CUST7031,Cindy Mccormick,30,Non-binary,Martinezshire,PROD745,Jeans,Fashion,4,212.06,848.24,2024-09-10,PayPal,3
+153,CUST5196,Patrick Foley,56,Non-binary,Pamelabury,PROD806,Smartphone,Electronics,5,416.43,2082.15,2025-02-25,PayPal,4
+154,CUST4656,Darryl Sanders,29,Female,Samanthafurt,PROD526,Science,Books,2,167.91,335.82,2024-03-12,PayPal,2
+155,CUST2163,Bradley Harris,50,Non-binary,Davisfort,PROD793,Dishwasher,Home & Kitchen,1,38.2,38.2,2024-06-17,Credit Card,5
+156,CUST6370,Robert White,19,Non-binary,Morrisonville,PROD460,Sneakers,Fashion,5,232.97,1164.85,2024-02-25,Debit Card,2
+157,CUST7367,Michael Carrillo,62,Male,Port Jenniferland,PROD487,Watch,Fashion,1,132.39,132.39,2024-08-11,Cash,4
+158,CUST9096,Beth Green,58,Non-binary,Jonathonbury,PROD396,Vegetables,Grocery,4,213.25,853.0,2023-11-25,Debit Card,2
+159,CUST8041,Abigail Dickerson,50,Male,North Randallfurt,PROD988,Vacuum Cleaner,Home & Kitchen,2,117.4,234.8,2023-10-26,PayPal,2
+160,CUST9282,Debra Wilson,20,Female,West Ashleytown,PROD362,Fruits,Grocery,5,434.28,2171.4,2023-04-14,PayPal,1
+161,CUST5464,Ronald Mercado,32,Male,Jeanettemouth,PROD546,Sneakers,Fashion,5,109.42,547.1,2024-07-05,Credit Card,4
+162,CUST6042,Timothy Gomez,34,Male,New Johnmouth,PROD947,Yoga Mat,Sports,1,418.62,418.62,2023-09-12,PayPal,4
+163,CUST8543,Stacie Bennett,30,Non-binary,West Alexandramouth,PROD756,Tablet,Electronics,1,363.05,363.05,2023-03-26,Debit Card,2
+164,CUST2703,Stuart Ray,42,Non-binary,Erikaview,PROD103,Fiction,Books,5,485.04,2425.2,2024-11-21,Cash,4
+165,CUST2874,Heather Perry,58,Non-binary,North Jameshaven,PROD443,Fiction,Books,1,323.18,323.18,2024-03-09,Credit Card,2
+166,CUST6201,Timothy Leonard,34,Female,Anthonyside,PROD200,Dumbbells,Sports,1,230.13,230.13,2023-09-28,Debit Card,2
+167,CUST8837,Tina Hardy,61,Non-binary,Emilyshire,PROD629,Smartwatch,Electronics,1,277.33,277.33,2023-11-28,PayPal,1
+168,CUST9109,Ernest Bernard,65,Non-binary,Petersonfurt,PROD213,Fruits,Grocery,5,449.01,2245.05,2024-09-28,Cash,3
+169,CUST2323,Allison Martinez,30,Male,Jenniferbury,PROD488,Tennis Racket,Sports,2,330.42,660.84,2023-12-13,Cash,1
+170,CUST1317,Denise Nixon,46,Female,North Christopher,PROD222,Football,Sports,5,406.75,2033.75,2023-09-10,Credit Card,3
+171,CUST4269,Michael Mcconnell,62,Male,Amybury,PROD677,Tablet,Electronics,4,436.32,1745.28,2023-12-27,Debit Card,3
+172,CUST3663,Tracy Hernandez,59,Female,Reginaton,PROD905,Jacket,Fashion,1,97.82,97.82,2024-08-26,Cash,1
+173,CUST2998,Javier Jimenez,26,Non-binary,West Adamberg,PROD955,Vacuum Cleaner,Home & Kitchen,3,279.17,837.51,2024-03-12,Cash,2
+174,CUST9186,Denise Maynard DDS,64,Non-binary,Smithmouth,PROD285,Biography,Books,1,322.08,322.08,2023-12-11,Debit Card,1
+175,CUST1146,Brian Hudson,56,Female,Stephensmouth,PROD939,Bread,Grocery,1,48.81,48.81,2025-01-28,Cryptocurrency,4
+176,CUST5407,Robin Smith,26,Male,South Victorborough,PROD748,Dishwasher,Home & Kitchen,5,162.85,814.25,2024-02-27,Credit Card,3
+177,CUST2333,Christopher Vega,38,Male,New Douglastown,PROD633,Eggs,Grocery,1,383.04,383.04,2024-02-24,Credit Card,4
+178,CUST4208,Sandra Davis,40,Non-binary,Deannaville,PROD209,Vegetables,Grocery,4,477.42,1909.68,2024-12-24,PayPal,2
+179,CUST9210,Sonia Figueroa,25,Female,West Jennifer,PROD380,Jeans,Fashion,5,271.93,1359.65,2024-05-31,Cash,3
+180,CUST7803,Thomas Mason,52,Female,Port George,PROD603,Laptop,Electronics,4,383.0,1532.0,2024-09-07,PayPal,3
+181,CUST7914,Michael Tucker,46,Female,North Erin,PROD257,Couch,Home & Kitchen,5,88.56,442.8,2024-10-17,Credit Card,1
+182,CUST2508,Jacqueline Brown,59,Male,New Justin,PROD911,Running Shoes,Sports,4,103.54,414.16,2023-12-08,Credit Card,4
+183,CUST6688,Hannah Jones,40,Non-binary,East Michael,PROD367,Yoga Mat,Sports,3,468.26,1404.78,2024-10-16,Cryptocurrency,2
+184,CUST6626,Nicole Gonzalez,21,Male,Port Matthewfort,PROD491,Eggs,Grocery,4,121.62,486.48,2024-01-12,Cryptocurrency,3
+185,CUST7360,Matthew Rivas MD,21,Male,West Thomas,PROD421,Non-fiction,Books,2,55.15,110.3,2024-12-24,Cash,5
+186,CUST4995,Christopher King,41,Female,South Stacie,PROD247,Bread,Grocery,3,64.29,192.87,2024-05-30,Cryptocurrency,4
+187,CUST7051,Casey Hoffman,19,Non-binary,Laceyborough,PROD354,Tablet,Electronics,5,293.3,1466.5,2023-04-18,Credit Card,5
+188,CUST1227,Kimberly Ross PhD,24,Non-binary,New William,PROD460,Jacket,Fashion,3,240.34,721.02,2023-06-08,Debit Card,2
+189,CUST7198,Julie Allen,47,Non-binary,North Christina,PROD330,Running Shoes,Sports,4,47.33,189.32,2023-11-19,Debit Card,4
+190,CUST4109,Richard Brown,38,Female,Lake Dennismouth,PROD357,Bread,Grocery,4,52.3,209.2,2024-10-27,Debit Card,4
+191,CUST2974,Stacie Hernandez,55,Female,Lake Tamaraton,PROD974,Headphones,Electronics,2,313.62,627.24,2023-11-03,PayPal,5
+192,CUST7106,Heather Dunn,45,Male,New Juan,PROD385,Smartphone,Electronics,1,54.76,54.76,2023-06-18,Cash,1
+193,CUST7644,Philip Martinez,57,Female,East Robert,PROD719,Tablet,Electronics,5,333.63,1668.15,2024-05-28,Cash,1
+194,CUST2093,Carolyn Miller,44,Male,Terrifurt,PROD411,Eggs,Grocery,2,247.85,495.7,2024-03-21,Debit Card,1
+195,CUST4911,Linda Nelson,44,Female,Markshire,PROD222,Jeans,Fashion,5,97.48,487.4,2023-09-15,Debit Card,1
+196,CUST6223,Kellie Jacobson,42,Female,Port Alexis,PROD848,Eggs,Grocery,5,42.67,213.35,2024-07-15,Credit Card,3
+197,CUST6962,Linda Walker,25,Male,West Kaitlynton,PROD579,Comics,Books,1,228.51,228.51,2024-10-29,Debit Card,3
+198,CUST6302,Nicholas Lambert,63,Male,Katherinehaven,PROD290,Couch,Home & Kitchen,1,145.89,145.89,2024-12-19,PayPal,3
+199,CUST2634,Michelle Reed,64,Female,North Brittany,PROD588,Bread,Grocery,3,438.4,1315.2,2024-12-29,Credit Card,4
+200,CUST6668,Alejandro Scott,51,Female,Coreyfort,PROD564,Milk,Grocery,3,340.4,1021.2,2023-04-02,Cash,3
+201,CUST6494,James Schmidt,55,Female,Smithside,PROD761,T-shirt,Fashion,4,186.77,747.08,2024-04-05,PayPal,1
+202,CUST3185,Jason Ballard,45,Non-binary,Douglasview,PROD628,Dumbbells,Sports,4,370.37,1481.48,2023-10-18,Debit Card,3
+203,CUST7582,Lisa Cummings,57,Female,South Lisaburgh,PROD742,Jeans,Fashion,5,464.11,2320.55,2023-08-21,Cryptocurrency,2
+204,CUST6974,Alan Stanley Jr.,44,Male,Terranceland,PROD644,Vegetables,Grocery,5,107.6,538.0,2024-10-16,Credit Card,2
+205,CUST2363,Mr. Garrett Harris,46,Non-binary,Lake Donnachester,PROD248,Headphones,Electronics,4,358.4,1433.6,2025-02-06,Cryptocurrency,2
+206,CUST9551,Jerry Wilson,19,Male,Whitneytown,PROD350,Sneakers,Fashion,2,159.03,318.06,2024-09-06,Cash,5
+207,CUST3557,Kelly Livingston,41,Male,New Michael,PROD660,Football,Sports,2,491.67,983.34,2024-08-18,PayPal,5
+208,CUST7008,Raymond Stephenson,54,Non-binary,Kathytown,PROD217,Tablet,Electronics,2,192.4,384.8,2024-02-03,Credit Card,4
+209,CUST8584,Xavier Jenkins,54,Non-binary,South Lisaside,PROD211,T-shirt,Fashion,5,361.54,1807.7,2024-02-12,Cryptocurrency,3
+210,CUST4534,Michelle Rogers,61,Non-binary,Schneiderville,PROD940,Laptop,Electronics,5,377.33,1886.65,2025-01-05,Cryptocurrency,5
+211,CUST4818,Clarence Contreras,53,Male,Seanport,PROD996,Fruits,Grocery,5,412.39,2061.95,2024-01-08,Credit Card,1
+212,CUST2648,Katherine Frank,38,Female,Pricemouth,PROD492,Football,Sports,4,357.81,1431.24,2023-11-20,Credit Card,5
+213,CUST3941,Robin Jensen,41,Non-binary,South Jamesburgh,PROD974,Dishwasher,Home & Kitchen,4,495.19,1980.76,2024-11-09,Cryptocurrency,5
+214,CUST7969,Patrick Palmer,19,Female,New Kristenland,PROD967,Non-fiction,Books,2,31.75,63.5,2025-02-23,Cryptocurrency,1
+215,CUST4328,Joseph Lewis,63,Female,Robertsonville,PROD819,Milk,Grocery,2,357.46,714.92,2024-12-03,Credit Card,2
+216,CUST6646,Cynthia Miller,21,Male,Greenburgh,PROD670,Blender,Home & Kitchen,5,214.16,1070.8,2024-05-12,Cash,5
+217,CUST9574,Robert Evans,50,Non-binary,Moniqueport,PROD925,Tennis Racket,Sports,4,216.85,867.4,2024-04-30,Cryptocurrency,5
+218,CUST3668,Ryan Walker,38,Non-binary,West Robert,PROD293,Microwave,Home & Kitchen,3,434.5,1303.5,2023-06-01,Cryptocurrency,3
+219,CUST6911,David Coleman,50,Male,Nicholastown,PROD305,Football,Sports,4,100.22,400.88,2023-08-03,PayPal,1
+220,CUST8663,Michael Lopez,25,Female,New Andrew,PROD268,Fiction,Books,4,224.34,897.36,2023-07-13,Cryptocurrency,2
+221,CUST9818,Michael Kelley,46,Non-binary,New Timothy,PROD838,Vegetables,Grocery,5,36.78,183.9,2024-09-23,Credit Card,2
+222,CUST6093,Daniel Soto,33,Male,Austinbury,PROD410,Tennis Racket,Sports,1,488.14,488.14,2024-01-10,PayPal,4
+223,CUST8131,Donna Johnson DVM,26,Non-binary,East Christianborough,PROD287,Laptop,Electronics,3,111.95,335.85,2023-10-31,Debit Card,1
+224,CUST4500,Joshua Decker,59,Female,Simonhaven,PROD370,Bread,Grocery,1,356.26,356.26,2025-02-07,Cash,3
+225,CUST8344,Tamara Choi,28,Non-binary,North Karastad,PROD430,Laptop,Electronics,2,8.91,17.82,2023-07-12,PayPal,5
+226,CUST2206,Ashley Dean,33,Male,Alexanderhaven,PROD798,Microwave,Home & Kitchen,5,24.02,120.1,2023-04-27,Cash,2
+227,CUST2927,Vanessa Davis,20,Non-binary,Angelaside,PROD838,Science,Books,2,364.65,729.3,2023-11-14,PayPal,4
+228,CUST5011,Heather Richards,29,Female,East Matthew,PROD267,Smartwatch,Electronics,5,464.08,2320.4,2023-04-26,Cash,5
+229,CUST1956,Timothy Hicks,29,Male,West Michelle,PROD281,Laptop,Electronics,2,356.88,713.76,2023-08-06,Cryptocurrency,5
+230,CUST8603,Willie Jones,24,Male,North Vincent,PROD450,Football,Sports,1,282.11,282.11,2024-01-16,PayPal,1
+231,CUST1744,Andrea Williams,29,Non-binary,Tylermouth,PROD322,Blender,Home & Kitchen,4,40.33,161.32,2023-06-30,Cash,3
+232,CUST6230,Christine Gonzalez,64,Non-binary,Stokesmouth,PROD704,Jeans,Fashion,1,432.66,432.66,2024-08-04,Debit Card,5
+233,CUST4013,Laura Doyle,62,Non-binary,South Kimberlyberg,PROD545,Non-fiction,Books,1,134.2,134.2,2024-08-10,Cash,2
+234,CUST3445,Jordan Obrien,49,Female,East David,PROD587,Tennis Racket,Sports,5,33.22,166.1,2023-09-23,Credit Card,5
+235,CUST7269,Sara Jones,62,Non-binary,Myersfurt,PROD786,Blender,Home & Kitchen,3,320.54,961.62,2025-01-06,Debit Card,4
+236,CUST1574,Shelia Valencia,41,Male,New Peter,PROD484,Watch,Fashion,3,265.94,797.82,2024-01-08,Credit Card,5
+237,CUST4123,Randall Thompson,47,Female,New Melanie,PROD441,Yoga Mat,Sports,5,189.63,948.15,2023-04-22,Cash,3
+238,CUST1900,Julia Moore,51,Female,Kevinshire,PROD994,Tablet,Electronics,1,315.42,315.42,2023-06-03,PayPal,3
+239,CUST4365,Vincent Rios,32,Non-binary,Shahville,PROD162,Science,Books,4,33.69,134.76,2025-02-08,Cash,4
+240,CUST5474,Jose Brown,57,Female,Port Laura,PROD212,Running Shoes,Sports,1,16.94,16.94,2024-07-27,Cryptocurrency,5
+241,CUST2455,Beth Dixon,39,Male,New Joshualand,PROD123,Running Shoes,Sports,1,481.9,481.9,2023-06-05,Debit Card,4
+242,CUST3831,Alexander Phelps,62,Non-binary,Millershire,PROD664,Yoga Mat,Sports,1,14.39,14.39,2024-03-20,PayPal,4
+243,CUST7986,John Moore,53,Male,West Robert,PROD468,Science,Books,2,324.16,648.32,2024-01-30,Debit Card,1
+244,CUST8005,Debbie Burke,52,Female,East Joshuafurt,PROD652,Jeans,Fashion,5,238.91,1194.55,2024-06-07,Credit Card,2
+245,CUST4569,Devin Moreno DDS,36,Non-binary,Fosterhaven,PROD590,Vegetables,Grocery,2,350.22,700.44,2024-06-13,Cryptocurrency,5
+246,CUST9808,Christopher Robinson,19,Male,Geraldchester,PROD286,Dumbbells,Sports,5,164.66,823.3,2024-02-29,Debit Card,3
+247,CUST1255,Marcus Hall,36,Male,West Ricardo,PROD713,Headphones,Electronics,1,399.05,399.05,2024-08-25,Credit Card,4
+248,CUST6471,Edward Jones,40,Non-binary,South Andres,PROD372,Jacket,Fashion,1,333.47,333.47,2024-03-15,Cryptocurrency,3
+249,CUST8033,Gregory Black,44,Non-binary,Leonardfort,PROD191,Microwave,Home & Kitchen,2,113.31,226.62,2024-07-07,Cryptocurrency,3
+250,CUST4555,Michael Allen,24,Male,New Johnshire,PROD824,Dumbbells,Sports,3,279.4,838.2,2025-01-08,Debit Card,1
+251,CUST1184,Bonnie Huffman,56,Male,Mooremouth,PROD717,Fruits,Grocery,2,311.41,622.82,2023-10-25,Credit Card,5
+252,CUST9265,Karen Kennedy,32,Female,Duffymouth,PROD255,Comics,Books,3,323.76,971.28,2023-05-06,Credit Card,5
+253,CUST9760,Charles Meyers,55,Female,Feliciaborough,PROD465,Dumbbells,Sports,1,142.69,142.69,2023-05-13,Debit Card,2
+254,CUST4953,Ashley Valdez,52,Female,South Rachelberg,PROD701,Dishwasher,Home & Kitchen,5,420.84,2104.2,2023-03-29,Debit Card,1
+255,CUST1749,Vincent Ortega,33,Male,Lake Stephanie,PROD771,Non-fiction,Books,3,74.7,224.1,2024-08-18,Cryptocurrency,2
+256,CUST1277,Michael Perez,51,Non-binary,Lake Terrance,PROD903,Tennis Racket,Sports,3,102.22,306.66,2023-05-25,Cash,5
+257,CUST3738,Erica Martinez,20,Non-binary,New Nicholasberg,PROD151,Football,Sports,4,287.43,1149.72,2024-11-07,Debit Card,4
+258,CUST6622,Rhonda Hubbard PhD,36,Male,Tuckerville,PROD112,Dishwasher,Home & Kitchen,3,431.94,1295.82,2024-06-27,Credit Card,1
+259,CUST2391,Eugene Wright,23,Female,Alexanderside,PROD758,Football,Sports,2,320.96,641.92,2024-08-15,Cash,1
+260,CUST4231,Kari Ford,22,Male,South Stevenfort,PROD888,Microwave,Home & Kitchen,3,152.61,457.83,2024-02-08,Debit Card,3
+261,CUST2261,Joseph Hudson,49,Non-binary,East Karenchester,PROD815,Microwave,Home & Kitchen,5,269.03,1345.15,2024-07-07,PayPal,3
+262,CUST1710,Heather Smith,63,Non-binary,New Meghanland,PROD632,Science,Books,1,192.96,192.96,2023-12-05,PayPal,1
+263,CUST6655,Joshua Buchanan,24,Non-binary,North Laurenberg,PROD506,Tablet,Electronics,5,210.38,1051.9,2023-10-29,PayPal,4
+264,CUST3432,Steven Martin,44,Female,New Mallorymouth,PROD478,Biography,Books,2,28.13,56.26,2023-12-11,Cryptocurrency,5
+265,CUST7961,Rebecca Williams,61,Non-binary,Laurieland,PROD133,Biography,Books,3,91.2,273.6,2024-10-21,Credit Card,4
+266,CUST1197,Kevin Brown,63,Non-binary,North Seanstad,PROD187,Eggs,Grocery,1,313.3,313.3,2023-11-16,Credit Card,4
+267,CUST9978,Tracey Arellano,28,Non-binary,Freemanfort,PROD140,T-shirt,Fashion,4,354.64,1418.56,2023-10-27,Credit Card,4
+268,CUST6169,David Green,44,Non-binary,West Madisonshire,PROD668,Biography,Books,3,282.05,846.15,2024-05-25,PayPal,4
+269,CUST9202,Heather Bryan,49,Female,Port Ronaldport,PROD878,Tennis Racket,Sports,3,78.89,236.67,2024-11-06,Cryptocurrency,3
+270,CUST4725,Angela Trevino,36,Male,Hernandezside,PROD966,Comics,Books,4,28.72,114.88,2023-05-12,Cash,1
+271,CUST5981,Adam Henry,44,Non-binary,New Darrellshire,PROD780,Jeans,Fashion,4,31.69,126.76,2024-04-03,Credit Card,5
+272,CUST5143,Debra Brown,22,Non-binary,Brandyberg,PROD190,Laptop,Electronics,3,189.93,569.79,2023-03-24,Credit Card,5
+273,CUST6000,James Patterson,21,Female,Martinezside,PROD184,Smartwatch,Electronics,3,78.2,234.6,2023-05-07,Debit Card,2
+274,CUST1882,Tyler Dean,50,Male,Brandytown,PROD530,Watch,Fashion,3,449.81,1349.43,2023-07-11,Cash,2
+275,CUST9986,Nancy Reyes,45,Female,Port Thomas,PROD469,Vacuum Cleaner,Home & Kitchen,3,454.27,1362.81,2024-12-19,Cryptocurrency,1
+276,CUST3541,Michael Stevens,47,Male,East Lisa,PROD602,Jeans,Fashion,1,67.45,67.45,2023-03-20,PayPal,1
+277,CUST1216,Jason Chandler,37,Male,Jonathanchester,PROD422,Fiction,Books,4,223.6,894.4,2024-04-27,Cash,2
+278,CUST2344,Patrick Jones,48,Female,Emilymouth,PROD447,Jacket,Fashion,1,63.25,63.25,2024-11-13,Cash,5
+279,CUST3628,Hunter Hodges,24,Non-binary,North Carlosland,PROD655,Non-fiction,Books,4,128.1,512.4,2024-04-05,PayPal,5
+280,CUST8117,Raymond Jimenez,51,Male,New Danielle,PROD328,Sneakers,Fashion,3,381.26,1143.78,2023-05-01,PayPal,4
+281,CUST9682,Stacy Perkins,27,Male,East Jenniferbury,PROD102,Milk,Grocery,1,35.43,35.43,2025-02-20,Debit Card,4
+282,CUST1558,Julie Greene,42,Male,Lake Michaelshire,PROD878,Blender,Home & Kitchen,1,413.62,413.62,2024-02-06,Cryptocurrency,3
+283,CUST3523,James Castillo,44,Non-binary,Nelsonhaven,PROD613,Headphones,Electronics,5,137.55,687.75,2023-07-04,Credit Card,5
+284,CUST6109,Tiffany Hill,59,Non-binary,Hernandezbury,PROD379,Yoga Mat,Sports,3,128.02,384.06,2025-01-30,Cash,5
+285,CUST4625,Melanie Singh,22,Female,Lake Lisaberg,PROD445,Dumbbells,Sports,5,102.66,513.3,2024-11-23,Debit Card,4
+286,CUST7812,Rebecca Noble,55,Non-binary,Lawrencefort,PROD604,Vacuum Cleaner,Home & Kitchen,5,157.12,785.6,2025-01-22,Cryptocurrency,4
+287,CUST4045,Nicholas Eaton,65,Female,Phillipmouth,PROD424,Comics,Books,4,490.39,1961.56,2024-12-12,Credit Card,3
+288,CUST3570,Bobby Nichols,53,Female,Diazstad,PROD348,Jacket,Fashion,5,93.66,468.3,2023-10-09,PayPal,2
+289,CUST7629,Christine Parker,48,Male,Spencerborough,PROD461,Vacuum Cleaner,Home & Kitchen,4,461.17,1844.68,2024-03-03,Credit Card,4
+290,CUST8984,William Davis,62,Non-binary,North Timothyton,PROD808,Smartphone,Electronics,2,266.03,532.06,2023-05-09,Cash,3
+291,CUST1557,Michelle Moreno,45,Non-binary,Robertaville,PROD357,Non-fiction,Books,3,297.98,893.94,2023-12-12,PayPal,1
+292,CUST2829,Samantha Young,54,Female,West Christina,PROD343,Dishwasher,Home & Kitchen,2,354.34,708.68,2023-07-25,Credit Card,1
+293,CUST1019,Katherine Smith,65,Female,Joshuaport,PROD979,Headphones,Electronics,5,345.04,1725.2,2023-12-01,Credit Card,2
+294,CUST8772,Nancy Avila,23,Non-binary,Paynefort,PROD530,Comics,Books,3,10.86,32.58,2024-08-25,Cryptocurrency,1
+295,CUST7516,Margaret Becker,31,Non-binary,Lake Phillip,PROD674,Bread,Grocery,3,419.75,1259.25,2023-04-05,Cryptocurrency,4
+296,CUST7339,Amanda Johnson,50,Male,New James,PROD906,Milk,Grocery,5,170.45,852.25,2024-01-26,Cryptocurrency,1
+297,CUST5014,Cindy West,40,Male,East Anthonystad,PROD860,Eggs,Grocery,5,125.96,629.8,2023-03-20,Cash,1
+298,CUST5569,Thomas Odonnell,38,Male,Johnhaven,PROD840,Couch,Home & Kitchen,2,140.72,281.44,2024-06-25,Debit Card,5
+299,CUST6919,Matthew Hicks,62,Non-binary,West Kevinland,PROD619,Dumbbells,Sports,1,163.81,163.81,2023-10-25,PayPal,5
+300,CUST2032,Meagan Davis,31,Female,North Debra,PROD768,Bread,Grocery,5,498.02,2490.1,2023-12-05,Cash,4
+301,CUST1400,Kristin Conway,52,Male,Jensenville,PROD304,Couch,Home & Kitchen,2,432.76,865.52,2023-12-10,Debit Card,1
+302,CUST1357,Jessica Chung,58,Female,Port Markbury,PROD585,Fiction,Books,3,294.26,882.78,2025-01-13,Cash,1
+303,CUST6921,Carlos Rodriguez,27,Female,South Miranda,PROD875,T-shirt,Fashion,5,170.43,852.15,2024-08-31,PayPal,3
+304,CUST5987,Brian Schmidt,41,Male,North Lauraville,PROD397,Blender,Home & Kitchen,1,214.18,214.18,2025-01-13,Debit Card,5
+305,CUST1247,Stephanie Osborn,33,Non-binary,Andreaville,PROD432,Watch,Fashion,3,151.38,454.14,2024-10-10,Cash,2
+306,CUST1362,Steven Hatfield,41,Female,Ronaldburgh,PROD911,Comics,Books,2,103.6,207.2,2024-10-28,Cryptocurrency,2
+307,CUST1403,Robert Johnson,31,Non-binary,New Jeffreyberg,PROD761,Vegetables,Grocery,4,398.49,1593.96,2024-04-17,Cash,2
+308,CUST4152,William Ortiz,36,Male,Christopherview,PROD873,Fruits,Grocery,3,229.61,688.83,2024-07-03,PayPal,5
+309,CUST4601,Jeffrey Bell,19,Non-binary,Lake Stephaniefurt,PROD368,Vegetables,Grocery,2,300.05,600.1,2023-12-01,Credit Card,4
+310,CUST6542,Lance Dennis,53,Non-binary,West Ashleechester,PROD148,Couch,Home & Kitchen,1,397.93,397.93,2023-03-19,Cash,5
+311,CUST4708,Jennifer Ballard,31,Female,Janicebury,PROD643,Blender,Home & Kitchen,1,113.29,113.29,2025-01-24,Cryptocurrency,2
+312,CUST4471,Scott Hernandez,41,Non-binary,Port Lauraville,PROD614,Laptop,Electronics,4,10.04,40.16,2023-05-10,Debit Card,4
+313,CUST3460,Suzanne Thompson,23,Male,Robinsonhaven,PROD820,Bread,Grocery,2,492.77,985.54,2024-08-22,Credit Card,4
+314,CUST4797,Jonathan Bailey,29,Male,Danielleport,PROD602,Non-fiction,Books,2,121.21,242.42,2023-06-04,Cryptocurrency,2
+315,CUST7370,Lauren Fox,44,Male,Lake Taraview,PROD519,Non-fiction,Books,1,429.46,429.46,2025-01-09,Cash,2
+316,CUST4430,Guy Andrews,55,Non-binary,East Pamela,PROD493,Yoga Mat,Sports,3,95.94,287.82,2023-04-06,Cryptocurrency,2
+317,CUST4461,Stephen Thomas,19,Male,Jamesville,PROD508,Football,Sports,2,261.77,523.54,2023-09-12,PayPal,1
+318,CUST5850,Amber Hartman,43,Non-binary,Wilsonborough,PROD631,Eggs,Grocery,3,129.02,387.06,2023-07-22,Cryptocurrency,4
+319,CUST9594,Karen Williams,18,Male,Timbury,PROD899,Jacket,Fashion,3,312.92,938.76,2024-01-31,Credit Card,4
+320,CUST7861,Sara Williams,52,Male,Jamieberg,PROD259,Running Shoes,Sports,4,205.11,820.44,2024-12-06,Cryptocurrency,2
+321,CUST5851,Sean Kirk,35,Male,Hodgesfurt,PROD256,Bread,Grocery,3,474.05,1422.15,2024-09-17,Debit Card,4
+322,CUST1111,Jaime Harper,31,Male,North Kristaton,PROD611,Milk,Grocery,3,77.24,231.72,2024-05-01,Cryptocurrency,1
+323,CUST8994,Joseph Salas,27,Non-binary,Port Robert,PROD652,Bread,Grocery,1,69.11,69.11,2024-02-26,PayPal,5
+324,CUST1881,Cory Carter,26,Female,South Deannaland,PROD743,Science,Books,1,275.32,275.32,2024-07-23,Debit Card,2
+325,CUST5074,Trevor Manning,63,Non-binary,North Juliafort,PROD262,Dishwasher,Home & Kitchen,1,488.22,488.22,2024-03-01,Credit Card,3
+326,CUST4915,Frederick Tate,50,Female,Bondshire,PROD664,Running Shoes,Sports,5,430.61,2153.05,2025-01-14,Debit Card,4
+327,CUST7522,Sean Snyder,38,Female,Elizabethside,PROD251,Headphones,Electronics,4,222.57,890.28,2023-08-13,Debit Card,3
+328,CUST5710,Tracy Myers,64,Male,Donnaside,PROD223,Jeans,Fashion,2,171.86,343.72,2024-11-05,Cash,3
+329,CUST9210,Lori Munoz,21,Female,Francoville,PROD595,Milk,Grocery,5,40.43,202.15,2024-10-19,Credit Card,3
+330,CUST4878,Robert Benjamin,25,Female,Brownview,PROD641,Smartphone,Electronics,3,486.78,1460.34,2024-06-29,PayPal,5
+331,CUST9682,Ashley Carroll,27,Female,South Jeffreyville,PROD426,Couch,Home & Kitchen,2,222.09,444.18,2023-05-18,Cash,4
+332,CUST3295,Kenneth Miller,31,Female,Robbinsstad,PROD579,Biography,Books,3,442.09,1326.27,2025-01-01,Debit Card,4
+333,CUST5111,Justin Mcconnell,30,Female,North Samuel,PROD429,Sneakers,Fashion,1,199.09,199.09,2023-09-20,Cash,1
+334,CUST4445,Jason Sharp,26,Female,East David,PROD741,T-shirt,Fashion,2,398.6,797.2,2023-09-29,PayPal,2
+335,CUST7950,Jordan Turner,39,Female,Curtiston,PROD929,Yoga Mat,Sports,2,273.31,546.62,2024-06-04,Cash,3
+336,CUST2208,Mary Garza,63,Male,West Frankmouth,PROD446,Dumbbells,Sports,3,36.49,109.47,2024-06-09,PayPal,2
+337,CUST6571,Steven Conner,58,Male,Ashleytown,PROD765,Dumbbells,Sports,1,197.09,197.09,2023-12-07,Debit Card,1
+338,CUST6412,William Reynolds,25,Non-binary,East Melissa,PROD161,Comics,Books,4,415.07,1660.28,2025-02-05,Cash,3
+339,CUST9599,Gregory Reynolds,54,Female,Johnsonmouth,PROD107,Non-fiction,Books,1,163.14,163.14,2023-03-31,Cash,4
+340,CUST3299,Curtis Riley,51,Non-binary,West Steven,PROD911,Jacket,Fashion,3,388.47,1165.41,2024-02-22,Debit Card,5
+341,CUST7221,Rick Mckinney,65,Non-binary,Coreyburgh,PROD898,Running Shoes,Sports,1,239.15,239.15,2025-01-29,Cash,2
+342,CUST4887,Bradley Clark,40,Male,Erikville,PROD385,Smartphone,Electronics,2,154.83,309.66,2024-10-28,Cash,3
+343,CUST1657,John Flores MD,18,Female,New Emily,PROD468,Smartphone,Electronics,3,167.84,503.52,2024-07-13,Debit Card,5
+344,CUST5069,Allen Hunter,30,Non-binary,Marisafort,PROD322,Milk,Grocery,3,173.84,521.52,2024-11-27,PayPal,3
+345,CUST6720,John Kaiser,63,Male,North Madeline,PROD979,Non-fiction,Books,3,325.4,976.2,2025-02-15,Debit Card,3
+346,CUST7475,Alyssa Rodriguez,59,Female,North Jessica,PROD485,Football,Sports,4,460.44,1841.76,2024-09-22,PayPal,3
+347,CUST6503,Jason Burton,53,Male,Josephtown,PROD128,Running Shoes,Sports,1,327.62,327.62,2024-08-10,PayPal,2
+348,CUST7170,Jeffrey Watson,57,Non-binary,Hamptonchester,PROD772,Vacuum Cleaner,Home & Kitchen,2,482.52,965.04,2023-04-28,Credit Card,3
+349,CUST1179,Corey Jones,39,Non-binary,West Lance,PROD832,Blender,Home & Kitchen,4,395.01,1580.04,2024-03-10,Credit Card,1
+350,CUST9442,Jamie Holloway,33,Male,Aaronshire,PROD735,Eggs,Grocery,4,457.08,1828.32,2023-06-09,Cash,4
+351,CUST3927,Sean Jackson,49,Male,West Seanside,PROD714,Football,Sports,3,208.51,625.53,2023-08-01,Cryptocurrency,2
+352,CUST8185,Peter Moore,45,Female,North Pamela,PROD707,Running Shoes,Sports,5,413.01,2065.05,2024-09-15,Cash,1
+353,CUST3724,Tina Bennett,37,Male,Griffithport,PROD545,Watch,Fashion,5,37.75,188.75,2024-01-22,Cryptocurrency,5
+354,CUST7566,Keith Taylor,48,Non-binary,Jonesbury,PROD895,Dishwasher,Home & Kitchen,5,13.53,67.65,2024-11-13,Cryptocurrency,4
+355,CUST9361,Donald Avila,24,Female,Port Ronaldfurt,PROD408,Vegetables,Grocery,3,354.53,1063.59,2023-03-20,Cash,5
+356,CUST6480,Kendra Ware,36,Male,South Jennifer,PROD910,Biography,Books,5,187.02,935.1,2023-11-20,PayPal,4
+357,CUST3817,Mark Austin,64,Male,Seanport,PROD587,Jacket,Fashion,2,210.14,420.28,2024-07-28,Cryptocurrency,5
+358,CUST5595,Amber Mullen,47,Male,South Shelby,PROD211,Biography,Books,1,251.44,251.44,2023-12-12,PayPal,1
+359,CUST9193,Angela Gross,53,Female,Paulshire,PROD454,Non-fiction,Books,3,450.0,1350.0,2023-11-15,Cash,3
+360,CUST3832,Angela Brown,31,Female,Heathershire,PROD754,Dishwasher,Home & Kitchen,3,79.33,237.99,2023-07-07,Cash,5
+361,CUST5161,Mariah Kim,54,Female,Shannonfurt,PROD409,Vegetables,Grocery,3,496.58,1489.74,2023-10-09,PayPal,4
+362,CUST5903,Paul Pena,57,Non-binary,New Edgar,PROD398,Bread,Grocery,3,119.41,358.23,2024-11-01,Cash,3
+363,CUST6116,Jay Wilson,56,Non-binary,Miaton,PROD280,Vacuum Cleaner,Home & Kitchen,5,257.75,1288.75,2025-03-09,Credit Card,5
+364,CUST2647,Mr. Adam Hayden,41,Male,South Jonathan,PROD378,Eggs,Grocery,3,411.15,1233.45,2024-11-22,Cryptocurrency,4
+365,CUST6546,Allison Goodman,24,Male,West Joannastad,PROD892,Jacket,Fashion,1,93.8,93.8,2024-12-02,PayPal,3
+366,CUST4678,Anne Johnson,57,Non-binary,Lisachester,PROD380,Fruits,Grocery,5,49.09,245.45,2024-06-10,Cryptocurrency,2
+367,CUST8835,Eric Davenport,28,Non-binary,New Benjamin,PROD437,Dishwasher,Home & Kitchen,2,418.96,837.92,2024-07-01,PayPal,2
+368,CUST4257,Charles Evans,60,Female,Bergville,PROD570,Tablet,Electronics,3,333.4,1000.2,2023-12-22,Debit Card,2
+369,CUST7838,Kyle Glover,53,Male,Port Kristinaport,PROD808,Bread,Grocery,5,161.56,807.8,2023-05-31,Cryptocurrency,5
+370,CUST3474,Catherine Ellison,21,Non-binary,South Julie,PROD695,Watch,Fashion,4,312.96,1251.84,2024-06-04,Credit Card,5
+371,CUST4245,Ashley Stewart,33,Male,Heatherland,PROD720,Comics,Books,5,190.53,952.65,2023-09-27,Cryptocurrency,1
+372,CUST8812,Noah Harding,24,Female,Williamston,PROD811,Science,Books,3,281.45,844.35,2023-12-18,Credit Card,3
+373,CUST6576,Jason Rodriguez,50,Female,Rossfort,PROD938,Watch,Fashion,3,57.44,172.32,2024-07-23,Credit Card,1
+374,CUST2007,David Hunt,41,Non-binary,Port Cynthialand,PROD371,Tablet,Electronics,4,468.44,1873.76,2024-08-14,Cryptocurrency,5
+375,CUST5415,Lisa Hernandez,55,Male,Lake Tanya,PROD550,Smartwatch,Electronics,2,32.35,64.7,2023-12-22,Cryptocurrency,5
+376,CUST6449,Dana Tucker,50,Female,East Kelsey,PROD204,Vegetables,Grocery,1,339.22,339.22,2024-06-14,Cryptocurrency,3
+377,CUST9699,Katie Haynes,20,Female,Jaredmouth,PROD325,Laptop,Electronics,1,65.49,65.49,2023-03-30,Cryptocurrency,2
+378,CUST9584,Angela Patel,24,Female,Lopezbury,PROD578,Dishwasher,Home & Kitchen,4,115.48,461.92,2024-08-02,Cash,2
+379,CUST6510,Monica Gibson,18,Female,South Reginaside,PROD121,Bread,Grocery,2,267.44,534.88,2024-06-10,Debit Card,5
+380,CUST3540,Janet Diaz,23,Female,Jimmymouth,PROD409,Football,Sports,4,123.64,494.56,2023-07-05,Credit Card,4
+381,CUST5055,Brian Mccall,58,Female,New Alex,PROD680,Blender,Home & Kitchen,1,305.8,305.8,2024-03-23,Credit Card,2
+382,CUST2778,Lisa Barnett,34,Female,Port Ryanfurt,PROD662,Running Shoes,Sports,4,43.26,173.04,2025-02-25,Debit Card,3
+383,CUST9216,David Wilson,46,Non-binary,Hicksburgh,PROD378,Smartwatch,Electronics,5,10.06,50.3,2024-09-04,PayPal,1
+384,CUST1361,Steven Rogers,35,Non-binary,Louisside,PROD694,Watch,Fashion,4,97.89,391.56,2023-12-23,Credit Card,3
+385,CUST3735,Ruben Campbell,60,Female,Codyberg,PROD934,Jeans,Fashion,2,481.54,963.08,2025-01-29,Debit Card,5
+386,CUST3822,Taylor Houston,64,Female,Lisaberg,PROD628,Jeans,Fashion,4,362.19,1448.76,2024-02-02,PayPal,4
+387,CUST6121,Matthew Harris,34,Female,Tinafurt,PROD178,Headphones,Electronics,5,75.96,379.8,2024-04-26,Debit Card,5
+388,CUST2291,Carolyn Hoffman,57,Male,Martinland,PROD276,Tennis Racket,Sports,5,65.63,328.15,2024-12-02,Credit Card,1
+389,CUST7968,Kristina Phillips,62,Male,Lake Briannahaven,PROD232,Comics,Books,3,75.57,226.71,2023-08-23,Debit Card,1
+390,CUST6254,Dawn Moore,41,Non-binary,Lake Ashley,PROD149,Yoga Mat,Sports,2,78.85,157.7,2024-05-11,PayPal,5
+391,CUST3727,Vicki Morgan,49,Female,East Matthew,PROD319,Headphones,Electronics,1,10.84,10.84,2023-07-01,Credit Card,1
+392,CUST2093,Jacob Cruz,42,Female,Alvarezfurt,PROD680,Smartwatch,Electronics,3,201.4,604.2,2025-02-04,Cash,3
+393,CUST5175,Kevin Wise,44,Female,Briannaberg,PROD584,Watch,Fashion,4,321.76,1287.04,2024-10-07,Credit Card,1
+394,CUST4083,Ashley Lyons,65,Non-binary,New Timothy,PROD540,Watch,Fashion,4,191.4,765.6,2023-08-17,Debit Card,5
+395,CUST5863,Jose Shaw II,52,Female,Costaburgh,PROD332,Non-fiction,Books,4,415.52,1662.08,2023-12-06,Credit Card,2
+396,CUST8744,Melanie Wood,27,Male,Stephaniemouth,PROD171,Jeans,Fashion,4,479.94,1919.76,2024-05-30,Cash,3
+397,CUST7345,Adam Ray,43,Non-binary,New Steven,PROD324,Smartphone,Electronics,1,312.74,312.74,2023-10-09,Debit Card,1
+398,CUST6501,Michelle Gomez,56,Non-binary,Port Linda,PROD157,Biography,Books,3,190.83,572.49,2024-07-05,Cash,4
+399,CUST2084,Jeffrey Williams,61,Male,East Stephaniefort,PROD570,Yoga Mat,Sports,4,121.89,487.56,2025-02-25,Cash,3
+400,CUST1765,Amber Copeland,26,Non-binary,Ryanview,PROD951,Dumbbells,Sports,5,29.1,145.5,2025-01-22,Credit Card,4
+401,CUST6254,Wanda Pace,34,Female,Amandaland,PROD992,Football,Sports,5,489.2,2446.0,2024-02-26,PayPal,3
+402,CUST9792,Ann Snyder,44,Female,Christinachester,PROD208,Eggs,Grocery,2,215.99,431.98,2023-10-02,Cash,3
+403,CUST9964,Erica Jacobs,50,Female,Lake Jamesfurt,PROD404,Yoga Mat,Sports,4,299.94,1199.76,2023-06-02,Cash,3
+404,CUST8052,Mary Norton,25,Non-binary,Nicoleshire,PROD628,Milk,Grocery,2,451.35,902.7,2023-05-03,Cryptocurrency,2
+405,CUST7777,Raymond Alvarez,52,Non-binary,Galvanfurt,PROD218,Dumbbells,Sports,3,352.24,1056.72,2024-03-26,Debit Card,2
+406,CUST3358,Julie Coleman,52,Male,East Chad,PROD685,Microwave,Home & Kitchen,1,452.37,452.37,2024-01-30,Credit Card,2
+407,CUST5405,Angela Diaz,57,Non-binary,Lake Michaelville,PROD280,Smartphone,Electronics,4,72.24,288.96,2023-06-07,Debit Card,2
+408,CUST4353,Austin Fritz,58,Female,Briannatown,PROD354,Couch,Home & Kitchen,2,283.4,566.8,2024-09-11,Credit Card,1
+409,CUST2011,Amanda Bernard,42,Non-binary,Davidsonfort,PROD320,Microwave,Home & Kitchen,2,71.66,143.32,2024-07-22,PayPal,1
+410,CUST1313,Nicole Shepard,58,Female,Davisport,PROD109,Tennis Racket,Sports,5,77.02,385.1,2023-08-28,Cash,4
+411,CUST1855,Jessica Rodgers,61,Male,New Jessicatown,PROD288,Tennis Racket,Sports,3,302.16,906.48,2024-06-08,Debit Card,4
+412,CUST2040,Kimberly Wiggins,46,Female,Brownside,PROD394,Vacuum Cleaner,Home & Kitchen,5,280.28,1401.4,2024-06-12,Debit Card,1
+413,CUST4052,Tina Strong,32,Female,Bakerborough,PROD419,Yoga Mat,Sports,3,441.53,1324.59,2023-11-17,PayPal,4
+414,CUST7062,Seth Martinez,53,Non-binary,Allenborough,PROD793,Blender,Home & Kitchen,5,310.38,1551.9,2024-02-04,PayPal,5
+415,CUST3973,Christine Stafford,27,Non-binary,Chandlerfurt,PROD236,Yoga Mat,Sports,1,255.94,255.94,2024-08-25,Debit Card,5
+416,CUST9447,Caroline Davis,38,Female,South Vanessaland,PROD752,Comics,Books,5,167.87,839.35,2023-08-17,Cash,2
+417,CUST5598,Matthew Smith,19,Male,Hillville,PROD681,Microwave,Home & Kitchen,2,34.55,69.1,2025-02-28,PayPal,3
+418,CUST4459,Alex Anderson,47,Female,Luisland,PROD813,Couch,Home & Kitchen,3,79.87,239.61,2024-05-26,Cryptocurrency,3
+419,CUST6311,Jonathan Lane,63,Male,Kleinport,PROD492,Couch,Home & Kitchen,2,463.31,926.62,2024-05-19,Credit Card,1
+420,CUST8155,Erika Garcia,23,Male,Thompsonberg,PROD544,Blender,Home & Kitchen,5,344.37,1721.85,2024-11-11,Cryptocurrency,3
+421,CUST8356,Joan Chavez,32,Male,Coryfort,PROD170,Non-fiction,Books,2,356.82,713.64,2025-01-06,PayPal,2
+422,CUST1032,Diana Mcintyre,37,Male,West Benjamin,PROD991,Headphones,Electronics,2,181.63,363.26,2023-09-13,Debit Card,5
+423,CUST6473,Frederick Gutierrez,19,Male,Lisaborough,PROD779,Dishwasher,Home & Kitchen,3,259.74,779.22,2024-10-01,PayPal,5
+424,CUST9929,Susan Rodriguez,41,Male,Wolfbury,PROD704,Smartphone,Electronics,3,359.03,1077.09,2024-06-02,Cryptocurrency,3
+425,CUST5975,Clayton Washington,65,Non-binary,Lake Judy,PROD767,Sneakers,Fashion,1,33.21,33.21,2024-09-09,Credit Card,3
+426,CUST1511,Scott Bautista,42,Female,South Julie,PROD262,Biography,Books,5,81.83,409.15,2024-06-05,PayPal,2
+427,CUST1931,Nancy Stewart DDS,43,Female,Fergusonfort,PROD756,Tablet,Electronics,3,47.92,143.76,2023-06-20,Debit Card,3
+428,CUST4364,Donald Wilson,63,Male,East Christie,PROD941,Sneakers,Fashion,4,288.56,1154.24,2024-04-10,Cryptocurrency,2
+429,CUST7476,Todd King,42,Male,East Ryan,PROD982,Smartphone,Electronics,4,223.86,895.44,2023-07-25,Credit Card,3
+430,CUST2476,Timothy Kane,19,Female,West Brandonfurt,PROD385,Blender,Home & Kitchen,3,477.61,1432.83,2024-03-12,Cryptocurrency,2
+431,CUST7136,Sydney Lee,26,Female,Port Anaside,PROD623,Sneakers,Fashion,5,247.09,1235.45,2023-03-21,Cryptocurrency,2
+432,CUST6285,Catherine Wilson,50,Male,West Ambertown,PROD717,Yoga Mat,Sports,1,398.99,398.99,2023-05-09,Debit Card,1
+433,CUST6410,Matthew Miller,55,Non-binary,Port Jonathanhaven,PROD200,Football,Sports,4,242.68,970.72,2023-03-16,Cash,1
+434,CUST3402,Robert Edwards,61,Male,Gomezmouth,PROD524,Microwave,Home & Kitchen,1,317.16,317.16,2024-01-21,Cryptocurrency,4
+435,CUST2723,Stephanie Snyder,28,Male,North Eddiehaven,PROD398,Football,Sports,5,322.42,1612.1,2024-12-26,PayPal,4
+436,CUST9142,Christopher Frederick,47,Male,North Thomasmouth,PROD135,Dumbbells,Sports,4,453.85,1815.4,2024-07-21,PayPal,2
+437,CUST9897,Misty Mills,39,Female,Lake Andreabury,PROD601,Microwave,Home & Kitchen,3,453.83,1361.49,2024-02-01,Debit Card,1
+438,CUST3513,Abigail Wilson,46,Female,Port Danielburgh,PROD926,Smartwatch,Electronics,3,425.99,1277.97,2024-12-08,PayPal,1
+439,CUST9752,Vincent Riddle,42,Non-binary,Ortegaborough,PROD491,Non-fiction,Books,1,125.96,125.96,2023-09-30,Cryptocurrency,1
+440,CUST4421,Shawn Williams,40,Male,South Meredith,PROD479,Comics,Books,5,396.24,1981.2,2024-03-06,Credit Card,2
+441,CUST2960,Cathy Collins,39,Female,Fordland,PROD794,Smartwatch,Electronics,3,450.13,1350.39,2025-01-07,Credit Card,4
+442,CUST3467,Kevin Garza,46,Female,South Scottshire,PROD160,Bread,Grocery,2,280.16,560.32,2024-08-12,Credit Card,2
+443,CUST9011,Mark Blankenship,55,Non-binary,Friedmanfurt,PROD108,Watch,Fashion,1,110.96,110.96,2024-04-28,Cash,1
+444,CUST6384,Charles Brown,47,Female,Jessicabury,PROD427,Tennis Racket,Sports,2,429.09,858.18,2024-11-02,Credit Card,4
+445,CUST2919,Kimberly Choi,35,Female,Russoborough,PROD778,Smartphone,Electronics,3,304.84,914.52,2025-02-09,Cash,2
+446,CUST6368,Tyler Thompson,41,Non-binary,New Danielmouth,PROD520,Biography,Books,4,450.04,1800.16,2024-12-16,Cryptocurrency,4
+447,CUST7758,Maria West,61,Non-binary,New Ashleyborough,PROD431,Watch,Fashion,1,356.27,356.27,2023-06-01,Credit Card,4
+448,CUST1662,Roberta Frost,51,Non-binary,Coopermouth,PROD583,Headphones,Electronics,5,281.26,1406.3,2023-07-18,Cryptocurrency,1
+449,CUST9541,Lindsey Harris,60,Male,Mcdonaldville,PROD344,Microwave,Home & Kitchen,1,436.01,436.01,2023-05-28,Cryptocurrency,1
+450,CUST1647,Colleen Walsh,37,Male,South James,PROD146,Bread,Grocery,1,34.43,34.43,2024-10-31,Debit Card,2
+451,CUST5486,Timothy Lynch,49,Female,South Debra,PROD467,Dishwasher,Home & Kitchen,5,159.28,796.4,2024-03-27,Credit Card,5
+452,CUST5690,Bryan Santos,33,Non-binary,Lake Ryan,PROD634,Tennis Racket,Sports,5,238.34,1191.7,2025-03-04,Credit Card,3
+453,CUST2608,Amy Cole,42,Female,Bennetthaven,PROD949,Science,Books,3,407.59,1222.77,2024-10-03,PayPal,3
+454,CUST3310,Gregory Taylor,23,Non-binary,Garciahaven,PROD916,Eggs,Grocery,3,397.46,1192.38,2024-07-24,Debit Card,1
+455,CUST8239,Stanley Stewart,22,Female,Webbton,PROD624,Milk,Grocery,2,186.39,372.78,2024-05-21,Cryptocurrency,2
+456,CUST9215,Jessica Taylor,24,Non-binary,East Teresaland,PROD326,Comics,Books,1,254.32,254.32,2024-06-15,Credit Card,1
+457,CUST7104,Jason Romero,35,Non-binary,Thompsonview,PROD107,Dumbbells,Sports,1,82.8,82.8,2023-08-14,Debit Card,5
+458,CUST4012,Shawn Clarke,26,Non-binary,Sweeneyberg,PROD168,Non-fiction,Books,2,314.07,628.14,2024-09-12,Cash,2
+459,CUST5028,Rebecca Mann MD,20,Female,East Mckenzie,PROD207,Eggs,Grocery,3,435.33,1305.99,2024-10-01,Cash,5
+460,CUST5677,Roger Shannon,37,Female,Ramseyport,PROD951,Dishwasher,Home & Kitchen,5,435.31,2176.55,2024-01-08,PayPal,5
+461,CUST9232,Lisa Barber,43,Male,Lake Rachaelborough,PROD119,Biography,Books,2,212.0,424.0,2023-05-23,Cryptocurrency,4
+462,CUST3430,Mr. Omar Miranda,29,Non-binary,Tinafurt,PROD505,Vacuum Cleaner,Home & Kitchen,2,241.64,483.28,2023-05-04,Credit Card,2
+463,CUST6194,James Ho,27,Female,South Patricia,PROD131,Biography,Books,5,268.14,1340.7,2023-06-21,Credit Card,4
+464,CUST1930,Dr. Leonard Klein,54,Female,North Richard,PROD594,Comics,Books,2,211.44,422.88,2024-09-19,Cash,3
+465,CUST8519,Wendy Dunn,31,Non-binary,Mathisland,PROD219,Eggs,Grocery,4,174.89,699.56,2024-05-12,Debit Card,1
+466,CUST8028,Courtney Martinez,47,Female,Reginaldfort,PROD778,Vegetables,Grocery,5,132.43,662.15,2024-05-11,Debit Card,4
+467,CUST5075,Tricia Walters,47,Female,East Betty,PROD429,Vegetables,Grocery,1,140.81,140.81,2023-07-27,Cryptocurrency,5
+468,CUST8787,Jessica Pace,46,Non-binary,East Leebury,PROD466,T-shirt,Fashion,4,479.8,1919.2,2024-08-04,PayPal,2
+469,CUST3608,Kimberly Bailey,52,Female,Owenston,PROD160,Fruits,Grocery,1,281.15,281.15,2023-11-30,PayPal,1
+470,CUST3928,Jesse Larson,28,Female,Barajaschester,PROD627,Dumbbells,Sports,1,323.21,323.21,2025-01-03,Debit Card,5
+471,CUST2006,Jillian Rose,51,Male,Port Glendahaven,PROD828,Dumbbells,Sports,1,493.85,493.85,2024-07-29,Cryptocurrency,4
+472,CUST5297,Brenda Castro,35,Non-binary,Jenniferhaven,PROD263,Tablet,Electronics,4,270.63,1082.52,2024-01-02,Credit Card,5
+473,CUST7969,Dana Sanford,35,Female,Johnsonville,PROD211,Sneakers,Fashion,3,120.61,361.83,2024-04-23,Debit Card,1
+474,CUST3753,Lee Marshall,22,Non-binary,Lisachester,PROD858,Watch,Fashion,1,177.38,177.38,2023-12-12,PayPal,3
+475,CUST2423,Amy Hanson,63,Female,Castrobury,PROD886,Milk,Grocery,1,107.41,107.41,2024-04-21,PayPal,2
+476,CUST9842,Sara Hall,58,Male,Sandratown,PROD450,Football,Sports,5,498.2,2491.0,2023-06-01,Cryptocurrency,5
+477,CUST3812,Cindy Vance,41,Female,East Michaelhaven,PROD406,Smartwatch,Electronics,1,64.47,64.47,2024-10-25,Cryptocurrency,2
+478,CUST2440,Eric Sullivan,33,Non-binary,New Kayla,PROD218,Tablet,Electronics,3,211.27,633.81,2024-01-22,PayPal,1
+479,CUST4153,Robert Mathis,22,Non-binary,South Kristinachester,PROD205,Dumbbells,Sports,1,184.89,184.89,2023-06-30,PayPal,2
+480,CUST3873,Ryan Martin,28,Non-binary,Russellview,PROD453,Comics,Books,5,259.94,1299.7,2024-06-15,Debit Card,1
+481,CUST7957,Michael Harmon,30,Male,Vincentburgh,PROD329,Jacket,Fashion,5,490.81,2454.05,2024-11-27,PayPal,3
+482,CUST8867,Paul Johnston,60,Male,Mendezburgh,PROD911,Vegetables,Grocery,4,9.86,39.44,2023-11-19,Debit Card,4
+483,CUST2608,Rebekah Mendoza,19,Non-binary,Nicoleside,PROD247,Non-fiction,Books,4,6.72,26.88,2023-09-01,PayPal,1
+484,CUST1303,Lori Jackson,45,Female,Jillport,PROD756,Smartwatch,Electronics,1,203.38,203.38,2023-06-05,Debit Card,4
+485,CUST3811,Stephanie Mitchell,33,Non-binary,North Joemouth,PROD897,Yoga Mat,Sports,4,24.49,97.96,2023-07-05,PayPal,1
+486,CUST7871,Alan Tran,62,Male,Blakestad,PROD649,Vegetables,Grocery,3,78.46,235.38,2023-08-10,Credit Card,4
+487,CUST3052,Patrick Green,51,Male,West Tiffany,PROD760,Sneakers,Fashion,2,418.54,837.08,2024-01-30,Debit Card,4
+488,CUST7162,Derek Leach,21,Female,New Alexander,PROD518,Fiction,Books,2,55.34,110.68,2024-06-02,Cryptocurrency,1
+489,CUST5415,John Stanley,47,Non-binary,Jamesmouth,PROD778,Science,Books,1,390.17,390.17,2024-05-13,Credit Card,3
+490,CUST6099,James Robinson,18,Female,New Dominique,PROD584,Smartphone,Electronics,2,250.32,500.64,2023-09-03,Debit Card,4
+491,CUST3643,Mrs. Karen Chapman MD,25,Non-binary,Christinafort,PROD739,T-shirt,Fashion,1,455.3,455.3,2023-09-09,Credit Card,3
+492,CUST7449,Stephanie Osborn,35,Male,Harperland,PROD264,T-shirt,Fashion,5,298.95,1494.75,2024-01-14,Cryptocurrency,5
+493,CUST9853,Rachel Banks,28,Female,Salinaston,PROD147,Non-fiction,Books,2,482.32,964.64,2023-08-04,Cryptocurrency,4
+494,CUST5226,Alex Michael,60,Male,Port Marymouth,PROD296,Vegetables,Grocery,2,402.41,804.82,2024-05-25,Cash,5
+495,CUST8928,Casey Scott,58,Male,New Ralphview,PROD893,Non-fiction,Books,1,386.92,386.92,2023-11-28,PayPal,5
+496,CUST5819,James Perez,65,Non-binary,South Jamieport,PROD959,Vacuum Cleaner,Home & Kitchen,4,15.89,63.56,2025-01-15,Debit Card,1
+497,CUST3656,Arthur Perez,21,Female,Thomasville,PROD962,Science,Books,5,461.71,2308.55,2023-11-08,Credit Card,5
+498,CUST6844,Robert Jackson,64,Female,Stephanietown,PROD372,Eggs,Grocery,5,363.01,1815.05,2024-08-28,Cash,2
+499,CUST4602,Michael Barajas,39,Male,New Christine,PROD286,T-shirt,Fashion,4,29.65,118.6,2025-03-09,Debit Card,1
+500,CUST2606,Cristian Berry,41,Non-binary,North Elizabethstad,PROD225,Tablet,Electronics,2,94.27,188.54,2025-01-01,Cryptocurrency,3
